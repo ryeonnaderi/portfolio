@@ -1,0 +1,91 @@
+
+/* about */
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+li a
+{
+    display: inline-block;
+    margin: 14px 16px 14px 16px;
+}
+.active
+{
+    float: right;
+}
+.name
+{
+    padding: 20px;
+    float: left;
+    background-color: blue;
+    color:white;
+}
+#picture
+{
+    float:left;
+    height: 250px;
+    width: 250px;
+    padding: 0;
+}
+#cheese
+{
+     width: 50%;
+    height:450px;
+    margin: 12%;
+    background-color:grey;
+    border: solid  grey;
+    padding:5%;
+}
+#p
+{
+    padding: 13px;
+    margin: 12;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    color: white;
+    text-align: center;
+    border-top: 15% color lightblue;
+}
+
+/* contact */
+#text
+{
+    width: 500px;
+    height: 500px;
+    background-color:white;
+}
+  
+#box
+{
+    background-color: grey;
+    border: hidden;
+    padding: 5%;
+    margin:  15%;
+}
+ul li
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p1
+{
+    height: 20px;
+}
+#hei
+{
+    width: 5%;
+    height: 5%;
+} 
+
