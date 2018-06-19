@@ -34,7 +34,7 @@ li a
 #picture
 {
     float:left;
-    height: 250px;
+    height: 200px;
     width: 250px;
     padding: 0;
 }
@@ -92,8 +92,8 @@ ul li
 #hei
 {
     width: 450px;
-    height: 400px;
-    margin: 5px; 
+    height: 350px;
+    margin: 50px; 
     float: left;
     
 } 
@@ -101,19 +101,21 @@ ul li
 {
     background-color: lightblue;
 }
-#music
+#genji
 {
-    width: 600px;
-    height: 400%;
-     margin: 100px;
-    float: left;
+    height: 300px;
+    margin-top: 50px;
+    float: right;
+    margin-bottom: 15px;
+    margin-right: 55px;
 }
 #overwatch
 {
-    width: 600px;
-    height: 450px;
-    margin: 2px;
+    width: 430px;
+    height: 410px;
+    margin-top: 45px;
     float:right;
+    margin-right: 200px;
 }
 #ana
 {
