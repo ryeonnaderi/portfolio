@@ -1,147 +1,30 @@
-/* version 6/17 11:20 pm */
-/* about */
-body
+.me 
 {
-    background-color: grey;
-}
-ul 
-{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:white;
-    font-family: Arial, Helvetica, sans-serif;
-    
-}
-li a
-{
-    display: inline-block;
-    margin: 14px 16px 14px 16px;
-}
-.active
-{
-    float: right;
-
-}
-.name
-{
-    padding: 20px;
-    float: left;
-    background-color: blue;
-    color:white;
-}
-#picture
-{
-    float:left;
-    height: 200px;
-    width: 250px;
-    padding: 0;
-}
-#cheese
-{
-     width: 50%;
-    height:450px;
-    margin: 12%;
-    background-color: white;
-    border: solid  grey;
-    padding:5%;
-}
-#p
-{
-    padding: 13px;
-    margin: 12;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color:grey;
-    color: white;
+    padding: 0%;
+    margin: 5%;
+    text-decoration:  blue underline;
+    font-weight: bold;
     text-align: center;
-    border-top: 15% color lightblue;
+}
+.container
+{
+    font-style: italic;
+}
+.title
+{
+    text-align: center;
 }
 
-/* contact */
-#text
+.contact
 {
-    width: 500px;
-    height: 500px;
-    background-color:white;
-    
+    text-align: center;
+    margin-top: 5%;
 }
-  
-#box
+.links
 {
-    background-color: white;
-    border: hidden;
+    text-align: center;
     padding: 5%;
-    /* margin:  15%; */
-}
-ul li
-{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
-}
-#p1
-{
-    height: 20px;
-}
-#hei
-{
-    width: 450px;
-    height: 350px;
-    margin: 50px; 
-    float: left;
+    text-decoration: aliceblue underline;
+    margin: 5%;
     
-} 
-#send
-{
-    background-color: lightblue;
-}
-#genji
-{
-    height: 300px;
-    margin-top: 50px;
-    float: right;
-    margin-bottom: 15px;
-    margin-right: 55px;
-}
-#overwatch
-{
-    width: 430px;
-    height: 410px;
-    margin-top: 45px;
-    float:right;
-    margin-right: 200px;
-}
-#ana
-{
-
-    float: left;
-    margin: 5px;
-    width: 550px;
-}
-.eh
-{
-    background-color: white;
-    width: 75%;
-    border: hidden;
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-}
-.clearfix::after
-{
-    content: "";
-    clear: both;
-    display: table;
-}
-#reaper
-{
-    width:450px;
-    height: 350;
 }
